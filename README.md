@@ -3,7 +3,8 @@
 
 - 👋 Hi, I’m Monica 🇻🇳🇺🇸 ~ @mtvdoan from the Bay Area California ~ 🕶 🏖 🌤 🧋 🍱 🍔 🤙🏼 🍜
 
--🧑🏼👩🏻👧🏻👦🏻 Happily married to a giraffe 🦒 with two demons to take care of. ┻━┻︵ \(°□°)/ ︵ ┻━┻
+-🧑🏼👩🏻👧🏻👦🏻 Happily married to a giraffe 🦒 with two demons to take care of. 
+┻━┻︵ \(°□°)/ ︵ ┻━┻
 
 - 👀 Former 🧫 🧪 🐁 Scientist 🔬 turned to Programmer Student at 💾 🖥️ 💻 Coding Dojo 🖱️ Bootcamp 🥷
   At 💾 🖥️ 💻 Coding Dojo 🖱️ I’m currently learning ... ╮ (. ❛ ᴗ ❛.) ╭

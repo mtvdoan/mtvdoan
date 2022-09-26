@@ -15,3 +15,5 @@
 - 🍘 🍙 🍛 🥘 🍜 🍲🍝🍚 I love food (ˆ ڡ ˆ)yum! , anime, being sily, video games, and anything slice of life related. 
 
 - ❤️ I hope to meet and collaborate with more newly trained software developers 🥰 🤗  O(∩_∩)O
+
+(〜^ ∇ ^)〜

@@ -8,8 +8,8 @@
                      ┻━┻︵ \(°□°)/ ︵ ┻━┻
 
 - 👀 Former 🧫 🧪 🐁 Scientist 🔬 turned to Programmer Student at 💾 🖥️ 💻 Coding Dojo 🖱️ Bootcamp 🥷
-  At 💾 🖥️ 💻 Coding Dojo 🖱️ I’m currently learning ... ╮ (. ❛ ᴗ ❛.) ╭
-    - HTML, CSS, Javascript, Jquery, Flask, React, Express, Node.js, SQL, MongoDB, Java, Spring, Python, & AWS EC2
+     - @ 💾 🖥️ 💻 Coding Dojo 🖱️ I’m currently learning ... ╮ (. ❛ ᴗ ❛.) ╭
+          - HTML, CSS, Javascript, Jquery, Flask, React, Express, Node.js, SQL, MongoDB, Java, Spring, Python, & AWS EC2
                         
                         ｡ﾟ(ﾟ∩´﹏`∩ﾟ)ﾟ｡
     

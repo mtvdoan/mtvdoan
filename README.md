@@ -9,7 +9,7 @@
 - 👀 Former 🧫 🧪 🐁 Scientist 🔬 turned to Programmer Student at 💾 🖥️ 💻 Coding Dojo 🖱️ Bootcamp 🥷
   At 💾 🖥️ 💻 Coding Dojo 🖱️ I’m currently learning ... ╮ (. ❛ ᴗ ❛.) ╭
     - HTML, CSS, Javascript, Jquery, Flask, React, Express, Node.js, SQL, MongoDB, Java, Spring, Python, & AWS EC2
-          ｡ﾟ(ﾟ∩´﹏`∩ﾟ)ﾟ｡
+                        ｡ﾟ(ﾟ∩´﹏`∩ﾟ)ﾟ｡
     
 - 🍘 🍙 🍛 🥘 🍜 🍲🍝🍚 I love food (ˆ ڡ ˆ)yum! , anime, being sily, video games, and anything slice of life related. 
 

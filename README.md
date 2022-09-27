@@ -13,7 +13,7 @@
                         
                         ｡ﾟ(ﾟ∩´﹏`∩ﾟ)ﾟ｡
                         
-[![Monica's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtvdoan)](https://github.com/mtvdoan/github-readme-stats)
+[![Monica's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtvdoan&&theme=tokyonight)](https://github.com/mtvdoan/github-readme-stats)
     
 - 🍘 🍙 🍛 🥘 🍜 🍲🍝🍚 I love food (ˆ ڡ ˆ)yum! , anime, being sily, video games, and anything slice of life related. 
 
@@ -21,4 +21,4 @@
 
 (〜^ ∇ ^)〜
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtvdoan&layout=compact)](https://github.com/mtvdoan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtvdoan&layout=compact&theme=tokyonight)](https://github.com/mtvdoan/github-readme-stats)

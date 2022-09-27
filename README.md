@@ -12,6 +12,8 @@
           - HTML, CSS, Javascript, Jquery, Flask, React, Express, Node.js, SQL, MongoDB, Java, Spring, Python, & AWS EC2
                         
                         ｡ﾟ(ﾟ∩´﹏`∩ﾟ)ﾟ｡
+                        
+[![Monica's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtvdoan)](https://github.com/mtvdoan/github-readme-stats)
     
 - 🍘 🍙 🍛 🥘 🍜 🍲🍝🍚 I love food (ˆ ڡ ˆ)yum! , anime, being sily, video games, and anything slice of life related. 
 

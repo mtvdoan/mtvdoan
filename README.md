@@ -11,7 +11,7 @@
 
      - @ 💾 🖥️ 💻 Coding Dojo 🖱️ My TechStack ... ╮ (. ❛ ᴗ ❛.) ╭
      
-          [![My Skills](https://skillicons.dev/icons?i=python,flask,js,mysql,bootstrap,html,css,java,spring,django,javascript,nodejs,react)](https://skillicons.dev)
+          [![My Skills](https://skillicons.dev/icons?i=python,flask,javascript,nodejs,mysql,bootstrap,html,css,java,spring,django,react)](https://skillicons.dev)
                         
                         ｡ﾟ(ﾟ∩´﹏`∩ﾟ)ﾟ｡
                         

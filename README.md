@@ -1,7 +1,7 @@
 
 ( ＾◡＾)っ ♡
 
-- 👋 Hi, I’m Monica 🇻🇳🇺🇸 ~ @mtvdoan from the Bay Area California ~ 🕶 🏖 🌤 🧋 🍱 🍔 🤙🏼 🍜
+- 👋 Hi, I’m Monica Doan 🇻🇳🇺🇸 ~ @mtvdoan from the Bay Area California ~ 🕶 🏖 🌤 🧋 🍱 🍔 🤙🏼 🍜
 
 - 🧑🏼👩🏻👧🏻👦🏻 Happily married to a giraffe 🦒 with two demons to take care of. 
      

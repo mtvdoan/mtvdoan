@@ -7,7 +7,7 @@
      
                      ┻━┻︵ \(°□°)/ ︵ ┻━┻
 
-- 👀 Former 🧫 🧪 🐁 Scientist 🔬 turned to Programmer Student at 💾 🖥️ 💻 Coding Dojo 🖱️ Bootcamp 🥷
+- 👀 Former 🧫 🧪 🐁 Scientist 🔬 turned to Full Stack Developer at 💾 🖥️ 💻 Coding Dojo 🖱️ Bootcamp 🥷
      - @ 💾 🖥️ 💻 Coding Dojo 🖱️ I’m currently learning ... ╮ (. ❛ ᴗ ❛.) ╭
           - HTML, CSS, Javascript, Jquery, Flask, React, Express, Node.js, SQL, MongoDB, Java, Spring, Python, & AWS EC2
                         

@@ -8,7 +8,9 @@
                      ┻━┻︵ \(°□°)/ ︵ ┻━┻
 
 - 👀 Former 🧫 🧪 🐁 Scientist 🔬 turned to Full Stack Developer at 💾 🖥️ 💻 Coding Dojo 🖱️ Bootcamp 🥷
+
      - @ 💾 🖥️ 💻 Coding Dojo 🖱️ My TechStack ... ╮ (. ❛ ᴗ ❛.) ╭
+     
           [![My Skills](https://skillicons.dev/icons?i=python,js,mysql,bootstrap,html,css,java,react)](https://skillicons.dev)
                         
                         ｡ﾟ(ﾟ∩´﹏`∩ﾟ)ﾟ｡

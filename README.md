@@ -8,8 +8,8 @@
                      ┻━┻︵ \(°□°)/ ︵ ┻━┻
 
 - 👀 Former 🧫 🧪 🐁 Scientist 🔬 turned to Full Stack Developer at 💾 🖥️ 💻 Coding Dojo 🖱️ Bootcamp 🥷
-     - @ 💾 🖥️ 💻 Coding Dojo 🖱️ I’m currently learning ... ╮ (. ❛ ᴗ ❛.) ╭
-          - HTML, CSS, Javascript, Jquery, Flask, React, Express, Node.js, SQL, MongoDB, Java, Spring, Python, & AWS EC2
+     - @ 💾 🖥️ 💻 Coding Dojo 🖱️ My TechStack ... ╮ (. ❛ ᴗ ❛.) ╭
+          [![My Skills](https://skillicons.dev/icons?i=python,js,mysql,bootstrap,html,css,java,react)](https://skillicons.dev)
                         
                         ｡ﾟ(ﾟ∩´﹏`∩ﾟ)ﾟ｡
                         

@@ -1,6 +1,7 @@
 
 <img src="https://github.com/mtvdoan/mtvdoan/blob/main/smaller%20family%20commision.png" style="height: 300px; max-width: auto"/>
 
+<img src="https://github.com/mtvdoan/mtvdoan/blob/main/FB_IMG_1533913528303.jpg" style="height: 300px; max-width: auto"/>
 - 👋 Hi, I’m Monica Doan 🇻🇳🇺🇸 ~ @mtvdoan from the Milpitas, California ~ 🕶 🏖 🌤 🧋 🍱 🍔 🤙🏼 🍜
 
 - 🧑🏼👩🏻👧🏻👦🏻 Happily married to a giraffe 🦒 with two demons to take care of. 

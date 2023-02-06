@@ -1,5 +1,5 @@
 
-<img src="https://github.com/mtvdoan/mtvdoan/blob/main/lennart-butz-idea5anim4.gif" style="height: 35px width: 50px"/>
+<img src="https://github.com/mtvdoan/mtvdoan/blob/main/lennart-butz-idea5anim4.gif" style="height: 35px"/>
 
 - 👋 Hi, I’m Monica Doan 🇻🇳🇺🇸 ~ @mtvdoan from the Milpitas, California ~ 🕶 🏖 🌤 🧋 🍱 🍔 🤙🏼 🍜
 

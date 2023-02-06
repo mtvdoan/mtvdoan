@@ -1,18 +1,16 @@
+<h2> 👋 Hi, I’m Monica Doan 🇻🇳🇺🇸 ~ @mtvdoan from the Milpitas, California ~ 🕶 🏖 🌤 🧋 🍱 🍔 🤙🏼 🍜 </h2>
+<h5>
+
+🧑🏼👩🏻👧🏻👦🏻 Happily married to a giraffe 🦒 with two demons to take care of. 
 
 <div>
      <img src="https://github.com/mtvdoan/mtvdoan/blob/main/smaller%20family%20commision.png" style="height: 200px; max-width: auto"/>
      <img src="https://github.com/mtvdoan/mtvdoan/blob/main/FB_IMG_1533913528303.jpg" style="height: 200px; max-width: auto"/>
 </div>
-
-- 👋 Hi, I’m Monica Doan 🇻🇳🇺🇸 ~ @mtvdoan from the Milpitas, California ~ 🕶 🏖 🌤 🧋 🍱 🍔 🤙🏼 🍜
-
-- 🧑🏼👩🏻👧🏻👦🏻 Happily married to a giraffe 🦒 with two demons to take care of. 
      
                      ┻━┻︵ \(°□°)/ ︵ ┻━┻
 
-- 👀 Former 🧫 🧪 🐁 Scientist 🔬 turned to Full Stack Developer at 💾 🖥️ 💻 Coding Dojo 🖱️ Bootcamp 🥷
-
-     - @ 💾 🖥️ 💻 Coding Dojo 🖱️ My TechStack ... ╮ (. ❛ ᴗ ❛.) ╭
+👀 Former 🧫 🧪 🐁 Scientist 🔬 turned to Full Stack Developer at 💾 🖥️ 💻 Coding Dojo 🖱️ Bootcamp 🥷 @ 💾 🖥️ 💻 Coding Dojo. ╮ (. ❛ ᴗ ❛.) ╭
 
 
 
@@ -38,4 +36,4 @@
 (〜^ ∇ ^)〜
 
 [![Monica's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtvdoan&&theme=tokyonight)](https://github.com/mtvdoan/github-readme-stats)
-
+</h5>

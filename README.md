@@ -1,4 +1,4 @@
-<h2> 👋 Hi, I’m Monica Doan 🇻🇳🇺🇸 ~ @mtvdoan from Milpitas, California ~ 🕶 🏖 🌤 🧋 🍱 🍔 🤙🏼 🍜 </h2>
+<h2> 👋 Hi, I’m Monica Doan 🇻🇳🇺🇸 from Milpitas, California ~ 🕶 🏖 🌤 🧋 🍱 🍔 🤙🏼 🍜 </h2>
 <h5>
 
 🧑🏼👩🏻👧🏻👦🏻 Happily married to a giraffe 🦒 with two demons to take care of. I love creating and tinkering with new things. I fell in love with coding after attending Coding Dojo Full Stack Developer Bootcamp and cannot wait to learn more.    Never stop learning.  Always be coding.  You may such at it at first but if you push yourself and practice, you'll get better.  

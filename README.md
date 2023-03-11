@@ -14,13 +14,7 @@
      <img src="https://github.com/mtvdoan/mtvdoan/blob/main/FB_IMG_1533913528303.jpg" style="height: 200px; max-width: auto"/>
 </div>
      
-                     ┻━┻︵ \(°□°)/ ︵ ┻━┻
-
-👀 Former 🧫 🧪 🐁 Scientist 🔬 turned to Full Stack Developer at 💾 🖥️ 💻 Coding Dojo 🖱️ Bootcamp 🥷 @ 💾 🖥️ 💻 Coding Dojo. ╮ (. ❛ ᴗ ❛.) ╭
-
-
-
-                        ｡ﾟ(ﾟ∩´﹏`∩ﾟ)ﾟ｡
+    ┻━┻︵ \(°□°)/ ︵ ┻━┻      ｡ﾟ(ﾟ∩´﹏`∩ﾟ)ﾟ｡
 
 <div>
      <h4>Let's Connect!</h4>

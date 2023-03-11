@@ -1,7 +1,7 @@
 <h2> 👋 Hi, I’m Monica Doan 🇻🇳🇺🇸 from Milpitas, California ~ 🕶 🏖 🌤 🧋 🍱 🍔 🤙🏼 🍜 </h2>
 
-<h3>
-👀 Former 🧫 🧪 🐁 Scientist 🔬 turned to Full Stack Developer at 💾 🖥️ 💻 Coding Dojo 🖱️ Bootcamp 🥷 @ 💾 🖥️ 💻 Coding Dojo. ╮ (. ❛ ᴗ ❛.) ╭
+<h5>
+👀 Former 🧫 🧪 🐁 Scientist 🔬 turned to Full Stack Developer ╮ (. ❛ ᴗ ❛.) ╭
 </h5>
 
 <h5>

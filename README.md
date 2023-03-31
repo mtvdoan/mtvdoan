@@ -1,9 +1,9 @@
 <h2> 👋 Hi, I’m Monica Doan 🇻🇳🇺🇸 from Milpitas, California ~ 🕶 🏖 🌤 🧋 🍱 🍔 🤙🏼 🍜 </h2>
 <hr/>
 
-<h5>
+<h1>
 👀 Former 🧫 🧪 🐁 Scientist 🔬 turned Full Stack Developer ╮ (. ❛ ᴗ ❛.) ╭
-</h5>
+</h1>
 <hr/>
 
 <h5>
